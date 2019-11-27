@@ -1,0 +1,11 @@
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\obj\Debug\netcoreapp2.2\class_lab2.csprojAssemblyReference.cache
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\obj\Debug\netcoreapp2.2\class_lab2.csproj.CoreCompileInputs.cache
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\obj\Debug\netcoreapp2.2\class_lab2.AssemblyInfoInputs.cache
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\obj\Debug\netcoreapp2.2\class_lab2.AssemblyInfo.cs
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\bin\Debug\netcoreapp2.2\class_lab2.deps.json
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\bin\Debug\netcoreapp2.2\class_lab2.runtimeconfig.json
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\bin\Debug\netcoreapp2.2\class_lab2.runtimeconfig.dev.json
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\bin\Debug\netcoreapp2.2\class_lab2.dll
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\bin\Debug\netcoreapp2.2\class_lab2.pdb
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\obj\Debug\netcoreapp2.2\class_lab2.dll
+C:\Users\A01211467\Desktop\inclass-2\class_lab2\obj\Debug\netcoreapp2.2\class_lab2.pdb
